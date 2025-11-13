@@ -1,2 +1,2 @@
 # exercicio-forum
-Implementação de um fórum para treinamento
+Implementação de um fórum para treinamento.
